@@ -37,7 +37,7 @@ A successful live or recorded presentation of your project will earn you **5 bon
 ---
 
 ##  Submission Guidelines
-* **Project Blueprint:** Submit which option you chose along with a 3-sentence summary on Google Classroom by **May 27** for approval.
+* **Project Blueprint:** Submit which option you chose along with a 3-sentence summary on Google Classroom by **May 29** for approval.
 * **Final Deliverables:** Your Documentation and Demo Link/Files are due on **June 19**.
 
 ***
