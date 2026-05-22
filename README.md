@@ -32,8 +32,7 @@ You need to show your work in action. You may choose **one** of the following fo
 ---
 
 ##  The Presentation Bonus (+5 Points)
-Want to give your final grade a serious boost?  
-Sign up to present your capstone to the class during finals week. A successful live or recorded presentation of your project will earn you **5 bonus points added directly to your final average** for the marking period.
+A successful live or recorded presentation of your project will earn you **5 bonus points added directly to your final average** for the marking period. Presentations will be due by **June 19**, however you can present earlier. 
 
 ---
 
