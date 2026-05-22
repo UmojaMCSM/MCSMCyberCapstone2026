@@ -1,6 +1,6 @@
 # MCSM CyberCapstone 2026
 
-Welcome to your final challenge! This capstone project is your opportunity to showcase the skills, tools, and defensive (or offensive) mindsets you’ve developed throughout this school year. You have the creative freedom to dive deep into a topic that genuinely interests you, format it to match your style, and prove you know your stuff.
+Welcome to your final challenge! This capstone project is your opportunity to showcase the skills, tools, and defensive (or offensive) mindsets you’ve developed throughout this school year. You have the creative freedom to dive deep into a topic that genuinely interests you, format it to match your style, and prove you know your stuff. **NOTE: For this project, you may only work in groups of up to 3 people. IF your group does a presentation, each of you must have a significant role in the presentation.**
 
 ---
 
@@ -33,13 +33,13 @@ You need to show your work in action. You may choose **one** of the following fo
 
 ##  The Presentation Bonus (+5 Points)
 Want to give your final grade a serious boost?  
-Sign up to present your capstone to the class during finals week. A successful live or recorded presentation of your project will earn you **5 bonus points added directly to your final average** for the course.
+Sign up to present your capstone to the class during finals week. A successful live or recorded presentation of your project will earn you **5 bonus points added directly to your final average** for the marking period.
 
 ---
 
 ##  Submission Guidelines
-* **Project Blueprint:** Submit which option you chose along with a 3-sentence summary on Google Classroom by **`[Insert Date]`** for approval.
-* **Final Deliverables:** Your Documentation and Demo Link are due on **`[Insert Date]`**.
+* **Project Blueprint:** Submit which option you chose along with a 3-sentence summary on Google Classroom by **May 27** for approval.
+* **Final Deliverables:** Your Documentation and Demo Link/Files are due on **June 19**.
 
 ***
 
