@@ -107,7 +107,7 @@ Sign up to present your capstone to the class during finals week. A successful l
     
     ```
 * **Expected Output:**
-* **Plain-English Explanation:**
+* **Give a plain Explanation here:**
 
 ### Phase 2: [e.g., Exploitation / Defense Implementation]
 
@@ -118,7 +118,7 @@ Sign up to present your capstone to the class during finals week. A successful l
     
     ```
 * **Expected Output:**
-* **Plain-English Explanation:**
+* **Give a plain explanation here:**
 
 *(Add more steps/phases as necessary to fully cover your project)*
 
